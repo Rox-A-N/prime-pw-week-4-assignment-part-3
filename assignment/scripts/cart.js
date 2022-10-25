@@ -3,6 +3,6 @@ console.log('***** Cart Functions *****');
 // We want to see how you are testing your code!!!
 let basket = [];
 
-function addItem() {
+function addItem(item) {
     
 }
